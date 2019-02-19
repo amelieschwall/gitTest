@@ -2,3 +2,5 @@
 
 
 Hello 
+
+var name = "Amelie"
